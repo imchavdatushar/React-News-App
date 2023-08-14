@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Tage Kene-Okafor",
+            "title": "African governments are collaborating with innovators to strengthen local health supply chains | TechCrunch",
+            "description": "Salient Advisory noted nearly 50 partnerships between health startups and African governments, with a focus on optimizing local health supply chains and improving health outcomes across the continent.",
+            "url": "https://techcrunch.com/2023/07/25/african-governments-are-collaborating-with-innovators-to-strengthen-local-health-supply-chains/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/9A15FC70-7412-4D21-ADB2-C47CDEEA4521.jpeg?resize=1200,842",
+            "publishedAt": "2023-07-25T07:26:48Z",
+            "content": "Last year, global healthcare consulting firm Salient Advisory surveyed more than 80 companies across four African countries for a report emphasizing the growth of startups digitizing the continents h… [+13279 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Manish Singh",
+            "title": "Prosus questions Byju's governance, says Indian edtech 'regularly disregarded advice' | TechCrunch",
+            "description": "Prosus, the largest external investor in Byju's, said its director stepped down from Byju's board after it became clear that \"he was unable to fulfil his fiduciary duty to serve the long-term interests of the company and its stakeholders.\"",
+            "url": "https://techcrunch.com/2023/07/24/prosus-questions-byjus-governance-says-indian-edtech-regularly-disregarded-advice/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/10/prosus-flag.jpeg?resize=1200,800",
+            "publishedAt": "2023-07-25T05:52:11Z",
+            "content": "A key Byju’s investor has gone on record to express its disappointment in the edtech giant’s governance issue, just weeks after all the independent members quit the startup’s board. Prosus said on Tu… [+2042 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ivan Mehta",
+            "title": "Instagram is down for multiple users | TechCrunch",
+            "description": "While the world is captivated by the drama of Twitter rebranding to X, rival social network Instagram is down for many users.",
+            "url": "https://techcrunch.com/2023/07/24/instagram-is-down-for-multiple-users/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/03/alexander-shatov-71Qk8ODIBko-unsplash.jpg?resize=1200,900",
+            "publishedAt": "2023-07-25T03:37:01Z",
+            "content": "While the world is captivated by the drama of Twitter rebranding to X, rival social network Instagram is currently down for many users.\r\nPeople complained that they have been getting errors such as “… [+343 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Darrell Etherington",
+            "title": "Here's why Elon Musk's rebranding of Twitter to 'X' is good, actually | TechCrunch",
+            "description": "Actually no I couldn’t even come up with a half-hearted contrarian take. It’s trash. Twitter has officially changed its logo to ‘X’",
+            "url": "https://techcrunch.com/2023/07/24/heres-why-elon-musks-rebranding-of-twitter-to-x-is-good-actually/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/x-twitter-1.jpg?resize=1200,800",
+            "publishedAt": "2023-07-24T22:36:55Z",
+            "content": "Actually no I couldn’t even come up with a half-hearted contrarian take. It’s trash."
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Sarah Perez",
+            "title": "Microsoft's Bing Chat comes to Chrome and Safari in tests for 'select users' | TechCrunch",
+            "description": "Microsoft’s AI chatbot, Bing Chat, is coming to non-Microsoft browsers the company today confirmed following various reports of the AI chatbot being spotted in other browsers like Google Chrome and Apple’s Safari. The expansion will make Microsoft’s ChatGPT-l…",
+            "url": "https://techcrunch.com/2023/07/24/microsofts-bing-chat-comes-to-chrome-and-safari-in-tests-for-select-users/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/02/chatgpt-bing.jpg?resize=1200,727",
+            "publishedAt": "2023-07-24T20:31:35Z",
+            "content": "Microsoft’s AI chatbot, Bing Chat, is coming to non-Microsoft browsers the company today confirmed following variousreports of the AI chatbot being spotted in other browsers like Google Chrome and Ap… [+2887 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Natasha Lomas",
+            "title": "Apple targeted in App Store antitrust damages suit that's seeking $1BN+ for UK developers | TechCrunch",
+            "description": "A class-action damages claim is being brought against Apple on behalf of UK-based developers over its \"anticompetitive\" 30% fee on in-app sales.",
+            "url": "https://techcrunch.com/2023/07/24/apple-targeted-in-app-store-antitrust-damages-suit-thats-seeking-1bn-for-uk-developers/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/03/apple-app-store-ios-2021.jpg?w=1180",
+            "publishedAt": "2023-07-24T20:14:00Z",
+            "content": "A class-action damages claim is being brought against Apple on behalf of UK-based developers. The suit, which is seeking a compensation payout that could be as high as £800 million (over $1BN), accus… [+9977 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ron Miller",
+            "title": "OneTrust hauls in another $150M on a $4.5B down round valuation | TechCrunch",
+            "description": "OneTrust announced a $150 million investment today, bringing its valuation down to $4.5B from $5.1B at the time of its last funding in 2020.",
+            "url": "https://techcrunch.com/2023/07/24/onetrust-hauls-in-another-150m-on-a-4-5b-down-round-valuation/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-544330936.jpg?resize=1200,798",
+            "publishedAt": "2023-07-24T20:05:39Z",
+            "content": "OneTrust has been raising money by the bushel since it was founded in 2016, raising a $200 million Series A in July 2019, a $210 million Series B in February 2020 and a $300 million Series C in Decem… [+1759 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Annie Njanja",
+            "title": "Flutterwave still in the woods after Kenyan court declines case withdrawal plea",
+            "description": "The judge said ARA failed to give reasons for withdrawing the case. He sought to know why it no longer had any evidence of the alleged crime.",
+            "url": "https://techcrunch.com/2023/07/24/blow-for-flutterwave-as-kenyan-court-declines-request-to-withdraw-case/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/02/PhotoPictureResizer_220216_082315412_crop_2886x2165.jpg?resize=1200,900",
+            "publishedAt": "2023-07-24T19:08:31Z",
+            "content": "Plans by Kenyas Assets Recovery Agency (ARA) to withdraw its second case against African fintech giant Flutterwave have been shot down by the countrys third highest court, the High Court.\r\nThe agency… [+2734 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Lauren Simonds",
+            "title": "Call for volunteers: work your way to TechCrunch Disrupt 2023 | TechCrunch",
+            "description": "Give us eight hours of your time, and we’ll hand you a free General Admission pass to TechCrunch Disrupt 2023. Apply to volunteer today!",
+            "url": "https://techcrunch.com/2023/07/24/call-for-volunteers-work-your-way-to-techcrunch-disrupt-2023/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/volunteer_header_2.png?resize=1200,675",
+            "publishedAt": "2023-07-24T01:25:39Z",
+            "content": "Were less than two months away from TechCrunch Disrupt 2023, which takes place September 1921 in San Francisco. If youre looking for a no-cash-flow way to go, listen up. We have the perfect opportuni… [+2384 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Aria Alamalhodaei",
+            "title": "Max Q: Umbra is a Silicon Valley outsider -- they prefer it that way | TechCrunch",
+            "description": "TechCrunch's weekly newsletter dedicated to all things space, including launch, satellites, space stations and more.",
+            "url": "https://techcrunch.com/2023/07/24/max-q-umbra-is-a-silicon-valley-outsider-they-prefer-it-that-way/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/12/tc-space-hero.gif?w=949",
+            "publishedAt": "2023-07-21T20:43:14Z",
+            "content": "Hello and welcome back to Max Q!\r\nIn this issue:\r\n<ul><li>A closer look at Umbra</li><li>News from Rocket Lab, Astranis and more</li></ul>Umbra co-founder Gabe Dominocielos last name is roughly trans… [+1482 chars]"
+        }
+    ]
+}
